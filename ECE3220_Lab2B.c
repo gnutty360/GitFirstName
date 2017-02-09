@@ -103,6 +103,8 @@ void arithmatic(unsigned short int input){
 	or not. 
 */
 
+/*this is a change to the code for lab3 and GIT*/
+
 void bitwise(unsigned short int input){
 	
 	int operator = 0b1000000000000000;
