@@ -110,7 +110,7 @@ void bitwise(unsigned short int input){
 	int operator = 0b1000000000000000;
 	int counter;
 	int hold;
-	
+	printf("\nThis is a cool comment for git!");
 	printf("\nThe binary representation of %hu is:\n", input);
 	
 	for(counter = 0; counter < 16; counter++){
